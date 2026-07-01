@@ -24,7 +24,7 @@ This project is a fully responsive, static frontend **Travel Website** developed
 * **CSS3:** Flexible grids, media query components, and custom color patterns
 * **JavaScript:** DOM event handler methods and form validation logic
 * **GitHub:** Public source code hosting and tracking
-* **Netlify:** Live web application deployment automation
+* **Netlify:** https://mantra-travel-website.netlify.app
 
 ---
 
